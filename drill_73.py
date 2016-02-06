@@ -1,3 +1,4 @@
+#This script has GUI to help add webpage contents, it also updates the content to be used later
 from tkinter import *
 from tkinter import ttk
 import db_web
